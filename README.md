@@ -1,2 +1,2 @@
 # AppleNet
-# Codes will be released soon !
+Codes will be released soon !
